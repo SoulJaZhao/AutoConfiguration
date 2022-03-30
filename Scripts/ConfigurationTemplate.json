@@ -1,0 +1,16 @@
+{
+  "FRAUDFORCE_API_KEY"  : "fdYb4NnDcO5n6LhFomIkkZFLUux3206bxcbUnRSR14A",
+  "RECAPTCHA_SITE_KEY"  : "6LdtnTYcAAAAAG14y1eWqH_KFVSQClL9nyqjRDRc",
+  "UJET_COMPANY_KEY"  : "1579036854857411d57d64188b22f450",
+  "UJET_MENU_KEY" : "gobank_rewards_authenticated",
+  "UJET_SUBDOMAIN"  : "gdqa",
+  "location"   :    {
+      "devint1"           :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle",
+      "qa3"               :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle",
+      "qa4"               :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle",
+      "qa5"               :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle",
+      "qa"                :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle",
+      "pie"               :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle",
+      "production"        :   "https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle"
+ }
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FRAUDFORCE_API_KEY</key>
+	<string>fdYb4NnDcO5n6LhFomIkkZFLUux3206bxcbUnRSR14A_plist</string>
+	<key>RECAPTCHA_SITE_KEY</key>
+	<string>6LdtnTYcAAAAAG14y1eWqH_KFVSQClL9nyqjRDRc_plist</string>
+	<key>UJET_COMPANY_KEY</key>
+	<string>1579036854857411d57d64188b22f450_plist</string>
+	<key>UJET_MENU_KEY</key>
+	<string>gobank_rewards_authenticated_plist</string>
+	<key>UJET_SUBDOMAIN</key>
+	<string>gdqa_plist</string>
+	<key>location</key>
+	<dict>
+		<key>devint1</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+		<key>qa3</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+		<key>qa4</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+		<key>qa5</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+		<key>qa</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+		<key>pie</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+		<key>production</key>
+		<string>https://secure.go2bank.com/enroll/acquisition/get-started?fl=HighHurdle</string>
+	</dict>
+</dict>
+</plist>
